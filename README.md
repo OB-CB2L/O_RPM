@@ -1,4 +1,4 @@
-# enduro_qi
+# Enduro Qi - DIY Electric Motorcycle
 A guide and file repository to building a fully electric motorcycle based utilizing e-bike components, python, and a raspberry pi 
 
 **Subdirectories :**
