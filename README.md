@@ -1,5 +1,5 @@
-# DIY Electric Motorcycle
-A file repository to building a fully electric street-legal motorcycle (no pedals); utilizing e-bike components, python, a 3D rpinter, and a raspberry pi.
+# DIY Electric Motorcycle (Open-source Raspberrry Pi Motorbike)
+A file repository to building a fully electric street-legal motorbike (no pedals); utilizing e-bike components, python, a 3D rpinter, and a raspberry pi.
 
 **Subdirectories :**
 
